@@ -1,0 +1,23 @@
+[
+  {
+    "aerolinea": "ttt",
+    "destino": "PARIS",
+    "id": 1,
+    "numeroVuelo": "m5ofpdp",
+    "fecha": "2026-02-04"
+  },
+  {
+    "aerolinea": "oooo",
+    "destino": "TOKIO",
+    "id": 7,
+    "numeroVuelo": "zzzzz",
+    "fecha": "2026-02-19"
+  },
+  {
+    "aerolinea": "ooooo",
+    "destino": "BUENOS_AIRES",
+    "id": 8,
+    "numeroVuelo": "iii",
+    "fecha": "2024-02-01"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "aerolinea": "fff",
+    "destino": "TOKIO",
+    "peso": 90.0,
+    "id": 4,
+    "numeroVuelo": "mmmm",
+    "fecha": "2024-02-24"
+  },
+  {
+    "aerolinea": "lllll",
+    "destino": "ROMA",
+    "peso": 90.0,
+    "id": 5,
+    "numeroVuelo": "ffff",
+    "fecha": "2026-02-20"
+  },
+  {
+    "aerolinea": "rrrrrr",
+    "destino": "PARIS",
+    "peso": 88.0,
+    "id": 6,
+    "numeroVuelo": "aaaa",
+    "fecha": "2026-02-26"
+  }
+]

@@ -1,0 +1,11 @@
+tipo,id,NumeroVuelo,fechaVuelo,aerolinea,destino,peso
+Comercial,1,m5ofpdp,2026-02-04,ttt,PARIS
+Cabotaje,2,kdkdkd,2026-02-26,ddd,POSADAS
+Cabotaje,3,ttt,2026-02-26,mmmm,POSADAS
+Sanitario,4,mmmm,2024-02-24,fff,TOKIO,90.00
+Sanitario,5,ffff,2026-02-20,lllll,ROMA,90.00
+Sanitario,6,aaaa,2026-02-26,rrrrrr,PARIS,88.00
+Comercial,7,zzzzz,2026-02-19,oooo,TOKIO
+Comercial,8,iii,2024-02-01,ooooo,BUENOS_AIRES
+Cabotaje,9,bbbb,2025-02-01,dddd,MENDOZA
+Cabotaje,10,fff,2024-02-09,uuu,IGUAZU

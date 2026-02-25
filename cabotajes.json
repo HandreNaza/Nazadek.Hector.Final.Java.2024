@@ -1,0 +1,30 @@
+[
+  {
+    "aerolinea": "ddd",
+    "destinocabotaje": "POSADAS",
+    "id": 2,
+    "numeroVuelo": "kdkdkd",
+    "fecha": "2026-02-26"
+  },
+  {
+    "aerolinea": "mmmm",
+    "destinocabotaje": "POSADAS",
+    "id": 3,
+    "numeroVuelo": "ttt",
+    "fecha": "2026-02-26"
+  },
+  {
+    "aerolinea": "dddd",
+    "destinocabotaje": "MENDOZA",
+    "id": 9,
+    "numeroVuelo": "bbbb",
+    "fecha": "2025-02-01"
+  },
+  {
+    "aerolinea": "uuu",
+    "destinocabotaje": "IGUAZU",
+    "id": 10,
+    "numeroVuelo": "fff",
+    "fecha": "2024-02-09"
+  }
+]
