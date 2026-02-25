@@ -15,3 +15,6 @@ La misma tambien permite la visualizacion en una grilla cargada desde un archivo
 
 ![Formulario de Registro](vw2.jpg)
 *Detalle de la carga de datos y validaciones.*
+
+![Diagrama UMLo](finalNazadekProgra2.png)
+*Detalle de la carga de datos y validaciones.*
