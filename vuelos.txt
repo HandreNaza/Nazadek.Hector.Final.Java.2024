@@ -1,11 +1,8 @@
-tipo,id,NumeroVuelo,fechaVuelo,aerolinea,destino,peso
-Comercial,1,m5ofpdp,2026-02-04,ttt,PARIS
-Cabotaje,2,kdkdkd,2026-02-26,ddd,POSADAS
-Cabotaje,3,ttt,2026-02-26,mmmm,POSADAS
-Sanitario,4,mmmm,2024-02-24,fff,TOKIO,90.00
-Sanitario,5,ffff,2026-02-20,lllll,ROMA,90.00
-Sanitario,6,aaaa,2026-02-26,rrrrrr,PARIS,88.00
-Comercial,7,zzzzz,2026-02-19,oooo,TOKIO
-Comercial,8,iii,2024-02-01,ooooo,BUENOS_AIRES
-Cabotaje,9,bbbb,2025-02-01,dddd,MENDOZA
-Cabotaje,10,fff,2024-02-09,uuu,IGUAZU
+tipo,id,NumeroVuelo,fechaVuelo,aerolinea,destino,
+HIDRANTE,1,vojbdsvjb,2026-04-09,vjcbdjibv,PARIS,50,5
+FUMIGADOR,2,kkkk,2026-04-15,fmflf,ROMA,50,raid
+SANITARIO,3,5h5h5h5,2026-04-16,ddfnefñlknd,ROMA,Mendez,ALTA
+HIDRANTE,4,sfv ñsl vñsv,2026-04-15,kkkkk,PARIS,55,88
+HIDRANTE,5,cccc,2026-04-16,ccc,ROMA,88,22
+HIDRANTE,6,k5dddd,2026-04-08,kkk,TOKIO,888,555
+SANITARIO,7,1hhhhff,2026-04-16,fkngkfn,BUENOS_AIRES,ffff,MEDIA

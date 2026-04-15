@@ -1,0 +1,42 @@
+[
+  {
+    "capacidad": 50,
+    "pasada": 5,
+    "id": 1,
+    "numeroVuelo": "vojbdsvjb",
+    "fecha": "2026-04-09",
+    "aerolinea": "vjcbdjibv",
+    "destino": "PARIS",
+    "tipo": "HIDRANTE"
+  },
+  {
+    "capacidad": 55,
+    "pasada": 88,
+    "id": 4,
+    "numeroVuelo": "sfv ñsl vñsv",
+    "fecha": "2026-04-15",
+    "aerolinea": "kkkkk",
+    "destino": "PARIS",
+    "tipo": "HIDRANTE"
+  },
+  {
+    "capacidad": 88,
+    "pasada": 22,
+    "id": 5,
+    "numeroVuelo": "cccc",
+    "fecha": "2026-04-16",
+    "aerolinea": "ccc",
+    "destino": "ROMA",
+    "tipo": "HIDRANTE"
+  },
+  {
+    "capacidad": 888,
+    "pasada": 555,
+    "id": 6,
+    "numeroVuelo": "k5dddd",
+    "fecha": "2026-04-08",
+    "aerolinea": "kkk",
+    "destino": "TOKIO",
+    "tipo": "HIDRANTE"
+  }
+]
