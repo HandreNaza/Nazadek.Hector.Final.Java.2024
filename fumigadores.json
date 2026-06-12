@@ -8,5 +8,15 @@
     "aerolinea": "fmflf",
     "destino": "ROMA",
     "tipo": "FUMIGADOR"
+  },
+  {
+    "hectareas": 55,
+    "veneno": "randa",
+    "id": 8,
+    "numeroVuelo": "555",
+    "fecha": "2026-06-12",
+    "aerolinea": "lll",
+    "destino": "TOKIO",
+    "tipo": "FUMIGADOR"
   }
 ]
